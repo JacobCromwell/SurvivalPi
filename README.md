@@ -23,3 +23,8 @@ If an article is given too many disproven/failure ratings then that article will
 If you submit a document please include a keywords section. Place a few words that describe your article such as #food, #tools, #shelter, #electronic, #mechanical etc.
 **Format:** Currently articles are accepted in any format. The preferred format is html. A website is in progress with the hopes that it will be easier
 for everyone to just enter text there without needing to worry about advanced formatting.
+
+## Legal Side
+The contents of this site are free to use and distribute.
+
+The Raspberry Pi may be used as the means to store the library of articles, but we are in no way associated or representitive of the Raspberry Pi, their team or their ideals.
